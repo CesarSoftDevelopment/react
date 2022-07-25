@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## OBS COURSE
+
+--> request process...
+
+shoot request
+.........|
+method: post
+         IP     PORT    ENDPOINT
+url: localhost:3000/products
+headers: type of data "json"
+payload: datas being sent to server
+preview: request response
+
+## async function
+It takes a while for something to be returned to us, without the software stopping working.
+It's normal

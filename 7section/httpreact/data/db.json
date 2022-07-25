@@ -1,19 +1,89 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "camisa",
-            "price": 59.9
-        },
-        {
-            "id": 2,
-            "name": "Calça vermelha",
-            "price": 90
-        },
-        {
-            "id": 3,
-            "name": "Boné aba reta",
-            "price": 29.9
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Máquina de cortar cabelo",
+      "price": "110",
+      "id": 4
+    },
+    {
+      "name": "Pente para cabelo",
+      "price": "300",
+      "id": 5
+    },
+    {
+      "name": "Mouse",
+      "price": "60",
+      "id": 6
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 7
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 10
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 12
+    },
+    {
+      "name": "g",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "price": "",
+      "id": 14
+    },
+    {
+      "name": "Maquina",
+      "price": "1",
+      "id": 15
+    },
+    {
+      "name": "Maquina",
+      "price": "1",
+      "id": 16
+    },
+    {
+      "name": "Maquina",
+      "price": "1",
+      "id": 17
+    }
+  ]
 }
