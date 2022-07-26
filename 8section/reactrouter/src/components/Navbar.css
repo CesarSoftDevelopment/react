@@ -10,3 +10,8 @@ nav a {
     text-decoration: none;
     color: #000;
 }
+
+.active {
+    background-color: #000;
+    color: #fff;
+}

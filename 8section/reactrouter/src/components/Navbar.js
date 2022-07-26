@@ -7,10 +7,11 @@ const Navbar = () => {
     <nav>
         {/* <Link to="/">Home</Link>
         <Link to="/about">About</Link> */}
-        <NavLink to="/">Home</NavLink>
+        <NavLink to="/" className={({isActive}) => 
+        (isActive ? 'is-active': 'is-not-active')}>Home</NavLink>
         <NavLink to="/about">About</NavLink>
     </nav>
   )
 }
 
-export default Navbar
+export default Navbar;
